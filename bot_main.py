@@ -11,7 +11,7 @@ from aiogram import F
 # Включаем логирование, чтобы не пропустить важные сообщения
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '7718223672:AAFuTcc5twGzaOWW4p7XZMwgGgzkfBI0dJ8'
+API_TOKEN = '***'
 
 # Объект бота
 bot = Bot(token=API_TOKEN)
